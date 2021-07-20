@@ -1,2 +1,2 @@
 # Android-Custom-Filters
-Custom user filters for ublock
+Custom user filters for ublock (Kiwi Browser)
